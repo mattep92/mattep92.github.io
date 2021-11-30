@@ -15,7 +15,7 @@ Obiettivi:
 2. form funzionante (fatto)
 3. README completo (fatto)
 4. alt per le img (fatto?)
-5. meta description
+5. meta description (fatto)
 6. favicon (fatto)
 
 no link che non linkano
